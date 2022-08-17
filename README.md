@@ -1,7 +1,7 @@
 
 
 <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-
+<a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
 ---
 <!-- 
@@ -24,14 +24,23 @@
 
 * 👽 Studying Back-End Development and Data.
 * 🤩 Future Full-Stack Programmer and Data Analyst.
+* 🥰I love R language
+* 👩🏻‍💻 more girls at tech
 
 
 <p>
   <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
+&nbsp;&nbsp;As a sincere and reliable software engineer, a passionate learner and an aspiring content creator who is familiar with Blockchain technology and has full-stack development experiences of more than 7 years, I obtained essential skills for web application development for further work of various aspects.<br>
+&nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
+&nbsp;&nbsp;I think It is my greatest pleasure to <strong>Build and Maintain Trusts</strong> with all my customers.<br>
+&nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
 
 </p>
 
 <div align="center">
+  <a href="https://github.com/JenniferPlothow">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JenniferPlothow_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 </div>
   <!-- ------------------ 💯Languages and operating system I use -->
@@ -41,7 +50,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" />
-    <img align="center" alt="SQL" height="30" width="40" src="https://png.pngtree.com/png-clipart/20190628/original/pngtree-vector-sql-icon-png-image_4047473.jpg" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://www.getsoftwareservice.com/wp-content/uploads/2015/05/SQL-Training.png" />
     
   ##
   
