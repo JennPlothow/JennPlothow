@@ -27,10 +27,6 @@
 * 👩🏻‍💻 more girls in tech
 
 
-<p>
-  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-</p>
 
 <div align="center">
 
@@ -43,7 +39,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" />
-    <img align="center" alt="SQL" height="30" width="40" src="https://png.pngtree.com/png-clipart/20190628/original/pngtree-vector-sql-icon-png-image_4047473.jpg" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://cdn3.vectorstock.com/i/1000x1000/18/77/blue-sql-icon-vector-4031877.jpg" />
     
   ##
   
