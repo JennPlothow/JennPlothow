@@ -24,16 +24,16 @@
 
 * 👽 Studying Back-End Development and Data.
 * 🤩 Future Full-Stack Programmer and Data Analyst.
-* 🥰 love r language
 * 👩🏻‍💻 more girls in tech
 
 
 <p>
- 
-      <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
+</p>
 
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 </div>
   <!-- ------------------ 💯Languages and operating system I use -->
@@ -43,7 +43,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" />
-    <img align="center" alt="SQL" height="30" width="40" src="https://www.seekpng.com/png/detail/861-8613627_free-automated-malware-analysis-service-azure-sql-database.png" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://png.pngtree.com/png-clipart/20190628/original/pngtree-vector-sql-icon-png-image_4047473.jpg" />
     
   ##
   
