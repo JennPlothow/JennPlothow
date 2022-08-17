@@ -1,7 +1,7 @@
 
 
 <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-
+<a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
 ---
 <!-- 
@@ -24,8 +24,6 @@
 
 * 👽 Studying Back-End Development and Data.
 * 🤩 Future Full-Stack Programmer and Data Analyst.
-* 🥰 love R language
-* 👩🏻‍💻 more girls at tech
 
 
 <p>
@@ -35,9 +33,8 @@
 </p>
 
 <div align="center">
- 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JenniferPlothow_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
- 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+</div>
   <!-- ------------------ 💯Languages and operating system I use -->
 <div align="center" style="display: inline_block"><br>
   <h3 align="left">Linguagens e sistema operacional:</h3>
@@ -45,7 +42,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" />
-    <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://img2.gratispng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" />
     
   ##
   
