@@ -27,10 +27,10 @@
 * 👩🏻‍💻 more girls in tech
 
 
+<p>
+  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-
+</p>
 
 <div align="center">
 
