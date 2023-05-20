@@ -1,6 +1,6 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jennplothow&theme=neon&hide_border=&mode=weekly)](https://git.io/streak-stats)
 
-
-<img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
+<img align="center" src="" />
 
 
 ---
