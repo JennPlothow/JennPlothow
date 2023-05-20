@@ -1,6 +1,4 @@
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jennplothow&theme=neon&mode=weekly)](https://git.io/streak-stats)" />
-
 
 ---
 <!-- 
