@@ -51,6 +51,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
+
+
+<a href="https://app.daily.dev/jennifer"><img src="https://api.daily.dev/devcards/0443dbfeac6c4be880f6e9823e68233e.png?r=bve" width="400" alt="Jennifer Plothow's Dev Card"/></a>
+
 </div>
 <!-- <h3 align="left">🛎 Connect with me:</h3>
 <p align="left">
