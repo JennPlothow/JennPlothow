@@ -1,4 +1,4 @@
-<h1 align="center">Jennifer Plothow</h1>
+<h1 align="center">Jennifer Rafael Plothow</h1>
 <!-- 
 ## 🤗 Welcome
 <p align=center>
